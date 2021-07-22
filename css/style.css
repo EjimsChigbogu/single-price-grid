@@ -1,0 +1,93 @@
+* {
+    /* margin: 0; */
+    border: 0;
+    font-family: 'poppings','sans-serif';
+   /* outline: 1px solid red; */
+/*    box-sizing: border-box;*/
+}
+
+.frt-banner{
+    /* background-image: url(../images/aboutBgImg.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+.h4-join {
+    color: hsl(179, 62%, 43%);
+    font-size: 25px;
+}
+
+.day {
+    color: hsl(71, 73%, 54%);
+    font-size: 20px;
+}
+.monthly-div {
+    background-color: hsl(179, 62%, 43%);
+    color: #f8f9eb
+}
+
+.mon-sub {
+    font-size: 18px;
+}
+
+.dollar {
+    font-size: 30px;
+}
+
+.why{
+    background-color: hsla(179, 60%, 47%, 1);
+    color:   #ebebeb;
+}
+
+.btn-sign {
+    font-size: 18px;
+    color: white;
+    background-color: hsl(71, 73%, 54%);
+    border-radius: 10px;
+    
+}
+
+/* .btn-sign:hover{
+    color: darkseagreen;
+    transform: scale(1.2);
+} */
+
+.name {
+    text-decoration-line: none;
+    color: green;
+}
+
+@media (max-width: 674px) {
+    .flex-container {
+        flex-direction: column;
+      }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
